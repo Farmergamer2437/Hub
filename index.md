@@ -29,4 +29,8 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>We hope you have a good&nbsp;<span style="color: #ff6600;"><span style="background-color: #000000;">Halloween</span></span>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>To get to the next page click&nbsp;<a href="https://farmergamer2437.github.io/Hub2/">here</a>.</p>
+<p>&nbsp;</p>
 <h4>This was written in HTML</h4>

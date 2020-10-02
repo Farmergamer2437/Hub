@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Farmergamer2437/Hub/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Farmergamer2437/Hub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1 style="text-align: center;"><span style="color: #ff6600;">Welcome to the Official Dee Tee Website</span></h1>
+<p>&nbsp;</p>
+<p><span style="color: #000000;">We will be providing you with many things such as a brand new event timer and will have some interesting info on this website that you will just love. We will be posting all news and events here so you can see them for yourselves and plan accordingly. We do have to note that you will need to go on to the discord server in order to fully get here.</span></p>
+<table style="height: 304px;" width="507">
+<tbody>
+<tr>
+<td style="width: 245.799px; text-align: center;">Admin Greeting</td>
+<td style="width: 246.91px; text-align: center;">Undecided time</td>
+</tr>
+<tr style="text-align: center;">
+<td style="width: 245.799px;">Concert</td>
+<td style="width: 246.91px;">Undecided time</td>
+</tr>
+<tr style="text-align: center;">
+<td style="width: 245.799px;">Halloween</td>
+<td style="width: 246.91px;">Undecided time</td>
+</tr>
+<tr>
+<td style="width: 245.799px; text-align: center;">Halloween rave/concert</td>
+<td style="width: 246.91px; text-align: center;">Undecided time</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>We have a discord server! We will have the link on here to get to it&nbsp;<a href="https://discord.gg/7qGhcQ">Here is the link to the Discord server</a>.</p>
+<p>&nbsp;</p>
+<p>We have some bugs and gliches but we are trying to fix it. If you have any suggestions for events or have forund any bugs go onto&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSfSLKpeIgiwLDXkWYto2f6Q-_vFS7qL-Srtd0W2hJlOmjyT0w/viewform?usp=sf_link">this google form</a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>We hope you have a good&nbsp;<span style="color: #ff6600;"><span style="background-color: #000000;">Halloween</span></span>.</p>
+<h4>This was written in HTML</h4>

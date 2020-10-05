@@ -1,3 +1,6 @@
+<head>
+  Main
+  </head>
 <h1 style="text-align: center;"><span style="color: #ff6600;">Welcome to the Official Dee Tee Website</span></h1>
 <p>&nbsp;</p>
 <p><span style="color: #000000;">We will be providing you with many things such as a brand new event timer and will have some interesting info on this website that you will just love. We will be posting all news and events here so you can see them for yourselves and plan accordingly. We do have to note that you will need to go on to the discord server in order to fully get here.</span></p>
